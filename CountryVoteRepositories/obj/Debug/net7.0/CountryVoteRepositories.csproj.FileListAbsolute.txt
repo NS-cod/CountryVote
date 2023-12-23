@@ -1,0 +1,17 @@
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.csproj.AssemblyReference.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.AssemblyInfoInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.AssemblyInfo.cs
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.csproj.CoreCompileInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteRepositories.deps.json
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteRepositories.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteRepositories.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteDataBaseContext.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteModels.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteDataBaseContext.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\bin\Debug\net7.0\CountryVoteModels.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.csproj.CopyComplete
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\refint\CountryVoteRepositories.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\CountryVoteRepositories.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteRepositories\obj\Debug\net7.0\ref\CountryVoteRepositories.dll

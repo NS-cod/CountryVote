@@ -1,0 +1,17 @@
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteDataBaseContext.deps.json
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteDataBaseContext.runtimeconfig.json
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteDataBaseContext.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteDataBaseContext.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteModels.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\bin\Debug\net7.0\CountryVoteModels.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.csproj.AssemblyReference.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.AssemblyInfoInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.AssemblyInfo.cs
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.csproj.CoreCompileInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.csproj.CopyComplete
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\refint\CountryVoteDataBaseContext.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\CountryVoteDataBaseContext.genruntimeconfig.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteDataBaseContext\obj\Debug\net7.0\ref\CountryVoteDataBaseContext.dll

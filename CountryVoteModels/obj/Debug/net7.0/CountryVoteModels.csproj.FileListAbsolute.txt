@@ -1,0 +1,11 @@
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\bin\Debug\net7.0\CountryVoteModels.deps.json
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\bin\Debug\net7.0\CountryVoteModels.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\bin\Debug\net7.0\CountryVoteModels.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.AssemblyInfoInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.AssemblyInfo.cs
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.csproj.CoreCompileInputs.cache
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\refint\CountryVoteModels.dll
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\CountryVoteModels.pdb
+F:\Documentos\Cursos\Net Core\Challenge\CountryVote\CountryVoteModels\obj\Debug\net7.0\ref\CountryVoteModels.dll

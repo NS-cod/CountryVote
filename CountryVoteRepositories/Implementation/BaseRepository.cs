@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using CountryVoteRepositories.Interfaces;
 using System.Linq.Expressions;
 using CountryVoteModels.DBModel;
+using NPOI.SS.Formula.Functions;
 
 namespace CountryVoteRepositories.Implementation
 {
@@ -45,6 +46,48 @@ namespace CountryVoteRepositories.Implementation
         public async Task<ICollection<T>> GetAll(Expression<Func<T, bool>> predicated)
         {
             return await this.countryVoteDbcontext.Set<T>().Where(predicated).ToListAsync();
+        }
+
+        public async Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicated = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, List<Expression<Func<T, object>>> includes = null, bool disabledTracking = true)
+        {
+            using var transaction = await countryVoteDbcontext.Database.BeginTransactionAsync();
+            try
+            {
+                IQueryable<T> query = countryVoteDbcontext.Set<T>();
+
+                if (disabledTracking) query = query.AsNoTracking();
+
+                if (includes != null) query = includes.Aggregate(query, (current, include) => current.Include(include));
+
+                if (predicated != null) query = query.Where(predicated);
+
+                if (orderBy != null) return await orderBy(query).ToListAsync();
+
+                return await query.ToListAsync();
+
+            }
+            catch (Exception)
+            {
+                await transaction.RollbackAsync();
+                throw;
+            }
+
+
+        }
+
+        public async Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicated = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeString = null, bool disabledTracking = true)
+        {
+            IQueryable<T> query = countryVoteDbcontext.Set<T>();
+
+            if (disabledTracking) query = query.AsNoTracking();
+
+            if (!string.IsNullOrEmpty(includeString)) query = query.Include(includeString);
+
+            if (predicated != null) query = query.Where(predicated);
+
+            if (orderBy != null ) return await orderBy(query).ToListAsync();
+
+            return await query.ToListAsync();
         }
 
         public async Task<T> Update(T entity)

@@ -16,5 +16,14 @@ namespace CountryVoteRepositories.Interfaces
         public Task<ICollection<T>> GetAll();
         public Task<ICollection<T>> GetAll(Expression<Func<T, bool>> predicated);
         public Task<T> Get(int id);
+
+        Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicated = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+            List<Expression<Func<T, object>>> includes = null,
+            bool disabledTracking = true);
+        Task<IReadOnlyList<T>> GetAsync(Expression<Func<T, bool>> predicated = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+            string includeString = null,
+            bool disabledTracking = true);
     }
 }
